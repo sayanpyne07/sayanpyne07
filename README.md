@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Programming Language**
 
-- 📫 How to reach me **sayanpyne8@gmail.com**
+- 📫 How to reach me **sayan.pyne0408@gmail.com**
 
 - ⚡ Fun fact **I can dance**
 
