@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sayan Pyne</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Health Care Administration**
+- 🔭 I’m currently working on **Real life project**
 
 - 🌱 I’m currently learning **Full Stack Development**
 
